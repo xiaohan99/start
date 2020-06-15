@@ -1,8 +1,8 @@
 title: 小韩 # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  我学的大数据<br/>
-  永远喜欢大数据<br/>
-  在平凡中打造绝对实力<br/>
+  我学习大数据<br/>
+  我永远喜欢大数据<br/>
+  要在平凡中打造绝对实力<br/>
   
   <a href="https://github.com/xiaohan99/">
     <i class="fab fa-github"></i>
@@ -25,8 +25,8 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://github.com/xiaohan99/ # 你的域名，例如 https://wu-kan.github.io
-baseurl: "https://github.com/xiaohan99/assets" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
+url: "https://xiaohan99.github.io/" # 你的域名，例如 https://wu-kan.github.io
+baseurl: "https://github.com/xiaohan99/xiaohan99.github.io" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
@@ -395,12 +395,14 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           <div>
             <i class="fas fa-thumbs-up fa-fw"></i>
             <a href="https://jekyll-theme-WuK.wu-kan.cn">
-              jekyll-theme-xiaohan
+              你要这个主题吗？
             </a>
           </div>
         - | # Copyright声明
           <div>
-            谢谢您来到了小韩的博客！
+          <br>
+            欢迎您来到了小韩的博客！
+          </br>
           </div>
         - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
           
