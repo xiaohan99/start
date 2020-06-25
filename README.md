@@ -72,7 +72,7 @@
 
 <!-- slide vertical=true -->
 
-
+孤独本是常态，在平凡中打造绝对实力！
 
 <!-- slide vertical=true -->
 
@@ -84,7 +84,7 @@
 
 ## 我的一些领导力
 
-TBD
+未来可期！不负韶华！加油！
 
 <!-- slide -->
 
